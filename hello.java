@@ -3,7 +3,7 @@ public class hello
 
 public static void main(String []args)
 {
-	System.out.println("Hello Sachin EVERYONE Indian");
+	System.out.println("Hello S EVERYONE Indian");
 	
 }
 
